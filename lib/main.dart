@@ -119,10 +119,7 @@ class MyCustomFormState extends State<MyCustomForm> {
                   ));
                 }
               },
-              child: Text(
-                'Masuk',
-                style: TextStyle(color: Colors.pink[100]),
-                textAlign: TextAlign.center,
+              child: Text('Kirim'),
             ),
           ),
         ],
